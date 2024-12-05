@@ -1,7 +1,7 @@
 # Simulation Code
 
 This repository contains the code to the Paper (In Submission).
-Other research data can be found on Zenodo (ToDo).
+Other research data can be found on [Zenodo](https://doi.org/10.5281/zenodo.14281662).
 
 
 You can try the simulation code out via binder:
